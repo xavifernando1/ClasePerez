@@ -1,2 +1,3 @@
 hola
-agregar linea 2 local 
+nueva linea 2
+nueva linea 3
